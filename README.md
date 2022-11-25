@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a passionated Frontend Developer with over ten years of frontend experience at various companies
+- 🔭 I’m a passionate Frontend Developer with over ten years of frontend experience at various companies
 - 🌱 Interested in design, clean code and crafting modern frontend experiences
 - ⚙️ Things I use every day: `.vue`, `.tsx`, `.scss`, `.js`, `.php`, `.twig`
 - ⚡ Besides working on user interfaces I enjoy mountainbiking, geocaching and cooking
