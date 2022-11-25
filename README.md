@@ -2,8 +2,8 @@
 
 - 🔭 I’m a passionate Frontend Developer with over ten years of frontend experience at various companies
 - 🌱 Interested in design, clean code and crafting modern frontend experiences
-- ⚙️ Things I use every day: `.vue`, `.tsx`, `.scss`, `.js`, `.php`, `.twig`
-- ⚡ Besides working on user interfaces I enjoy mountainbiking, geocaching and cooking
+- ⚙️ Things I use every day: `.vue`, `.tsx`, `.css`, `.js`, `.html`, `.twig`, `.php`
+- ⚡ Besides working on user interfaces I enjoy mountain biking, geocaching and cooking
 - 💬 You can get in touch with me by email at [marc.bruederlin@icloud.com](mailto:marc.bruederlin@icloud.com)
 
 <!--
