@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m a passionated Frontend Developer with over ten years of frontend experience at various companies
+- 🌱 Interested in design, clean code and crafting modern frontend experiences
+- ⚙️ Things I use every day: `.vue`, `.tsx`, `.scss`, `.js`, `.php`, `.twig`
+- ⚡ Besides working on user interfaces I enjoy mountainbiking, geocaching and cooking
+- 💬 You can get in touch with me by email at [marc.bruederlin@icloud.com](mailto:marc.bruederlin@icloud.com)
+
 <!--
 **marcbruederlin/marcbruederlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
